@@ -58,6 +58,7 @@ e) **Filtering needs:** Enable drill-down by time range, product type, roast, si
 
  - Create line charts, bar charts, pie charts.
  - Embed slicers and timeline to interactively filter by coffee type, roast, size, loyalty, date
+   
    ![lines](https://github.com/user-attachments/assets/a25bda2c-2601-4673-b2c4-1fd0a06aee25)
    ![Bars](https://github.com/user-attachments/assets/08b7ad26-5ba9-4d71-93ff-e903e31f3a9d) ![Slicer](https://github.com/user-attachments/assets/78f2cff7-3d1d-47f1-a0b3-aafef73ed11a)
 
@@ -70,7 +71,11 @@ e) **Filtering needs:** Enable drill-down by time range, product type, roast, si
 
 🗂️**Files in the Repositary**
 
+ - [coffeeOrdersData.xlsx](https://github.com/user-attachments/files/21104691/coffeeOrdersData.xlsx)
+ - [Coffee_Sales_Dashboard_Project.xlsx](https://github.com/user-attachments/files/21104717/Coffee_Sales_Dashboard_Project.xlsx)
+   
 🗂️**Dashboard Overview**
+
 ![Coffee Sales Dashboard](https://github.com/user-attachments/assets/ec48d0fc-bda4-43ef-a224-bc40792328fe)
 
 🗂️**Credits**
