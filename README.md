@@ -57,7 +57,10 @@ e) **Filtering needs:** Enable drill-down by time range, product type, roast, si
 4) **Visualize with Excel Charts**
 
  - Create line charts, bar charts, pie charts.
+   
  - Embed slicers and timeline to interactively filter by coffee type, roast, size, loyalty, date
+   ![Slicer](https://github.com/user-attachments/assets/78f2cff7-3d1d-47f1-a0b3-aafef73ed11a)
+
 
 5) **Dashboard Design**
 
@@ -78,6 +81,8 @@ e) **Filtering needs:** Enable drill-down by time range, product type, roast, si
 
 - **LinkedIn**: https://www.linkedin.com/in/kritika-mahajan-014contact
 - **GitHub**: https://github.com/kritika-data014
+
+Feel free to reach out with questions or feedback about the project!
 
 
 
