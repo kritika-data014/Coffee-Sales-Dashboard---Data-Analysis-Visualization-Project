@@ -1,6 +1,6 @@
 # Coffee-Sales-Dashboard---Data-Analysis-Visualization-Project
 
-1. 🧭 **Project Overview**
+🧭 **Project Overview**
    
 An interactive Excel dashboard presenting coffee sales insights—covering total revenue, product performance, geography, customer ranking—using standard Excel features (XLOOKUP, pivot tables, slicers, charts).
 
@@ -31,3 +31,5 @@ c) **Geographic demand:** Which countries/top regions show strongest sales?
 d) **Customer behavior:** Who are the top spenders? Segment by loyalty?
 
 e) **Filtering needs:** Enable drill-down by time range, product type, roast, size, country, loyalty status via interactive slicers.
+
+
