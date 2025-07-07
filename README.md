@@ -18,7 +18,7 @@ b) **Customers:** Customer ID with name, email, country, loyalty-status.
 
 c) **Products:** Product ID with coffee type (Arabica/Robusta/…), roast (L, M, D), size, unit price, profit margin
 
-❓**Key Business Questions**
+🗂️**Key Business Questions**
 
 Use cases and analytical scenarios include:
 
@@ -32,11 +32,11 @@ d) **Customer behavior:** Who are the top spenders? Segment by loyalty?
 
 e) **Filtering needs:** Enable drill-down by time range, product type, roast, size, country, loyalty status via interactive slicers.
 
-🛠️**Tools Used**
+🗂️**Tools Used**
 
 - **Microsoft Excel:** For data cleaning, processing, and dashboard creation.
 
-🛠️**Method**
+🗂️**Method**
 
 1) **Import & Clean Data**
 
@@ -64,6 +64,26 @@ e) **Filtering needs:** Enable drill-down by time range, product type, roast, si
  - Build a clean dashboard sheet: KPIs, trend-lines, key charts.
  - Align slicers and timeline at top for interactivity.
  - Use consistent color theme and layout balance.
+
+🗂️**Files in the Repositary**
+
+🗂️**Dashboard Overview**
+![Coffee Sales Dashboard](https://github.com/user-attachments/assets/ec48d0fc-bda4-43ef-a224-bc40792328fe)
+
+🗂️**Credits**
+
+ - **Data Source:** Mo Chan (YouTube video)
+
+🗂️**Connect With Me**
+
+- **LinkedIn**: https://www.linkedin.com/in/kritika-mahajan-014contact
+- **GitHub**: https://github.com/kritika-data014
+
+
+
+
+
+
   
 
 
